@@ -9,6 +9,7 @@
     - [Vllm](https://github.com/vllm-project/vllm)
     - [KoboldCPP](https://github.com/LostRuins/koboldcpp)
     - [LocalAI](https://github.com/mudler/LocalAI)
+    - [LlamaFile](https://github.com/Mozilla-Ocho/llamafile)
   - [Fine-Tunings](#Fine-Tunings)
     - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
   - [Image-Generation](#Image-Generation)
