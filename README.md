@@ -17,3 +17,5 @@
     - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
   - [Audio-Detection](#Audio-Detection)
     - [Whisper.CPP](https://github.com/ggerganov/whisper.cpp)
+  - [Agents](#Agents)
+    - [CrewAI](https://github.com/crewAIInc/crewAI)
