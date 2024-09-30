@@ -10,6 +10,7 @@
     - [KoboldCPP](https://github.com/LostRuins/koboldcpp)
     - [LocalAI](https://github.com/mudler/LocalAI)
     - [LlamaFile](https://github.com/Mozilla-Ocho/llamafile)
+    - [NexaAI](https://github.com/NexaAI/nexa-sdk) //need to try
   - [Fine-Tunings](#Fine-Tunings)
     - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
   - [Image-Generation](#Image-Generation)
