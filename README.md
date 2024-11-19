@@ -13,6 +13,7 @@
     - [NexaAI](https://github.com/NexaAI/nexa-sdk) //need to try
     - [Cortex.cpp](https://github.com/janhq/cortex.cpp)
     - [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice/tree/main)
+    - [Bolt.new](https://github.com/stackblitz/bolt.new)
   - [Fine-Tunings](#Fine-Tunings)
     - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
   - [Image-Generation](#Image-Generation)
